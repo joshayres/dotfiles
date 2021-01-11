@@ -1,0 +1,53 @@
+{
+	"analytics-uuid": "749c5310-cb13-4348-adb4-445b8e86ea48",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1609789582883
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "118223428286954356142",
+		"email": "joshvayres10@gmail.com",
+		"email_verified": true,
+		"at_hash": "TtU4p8qMnh7JcAjU2Dpp0Q",
+		"iat": 1609225141,
+		"exp": 1609228741
+	},
+	"tokens": {
+		"expires_at": 1609793181773,
+		"refresh_token": "1//0d6kjunRlf_8iCgYIARAAGA0SNwF-L9Irw6pCn7hbCxN2y5QP7sNV0zacSaquhtqJTfNTSeJ58jtG_lWe-Q9Jzizmls3jckb_cpM",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMAPlgWTbWC8VTifO_MydsWN1B2gs9eG0qoKUvIKs9TtPZYXQyZdaHZpfaAjEgoozQWrwfntgZs12OpKXdyk9nZw8iS38fP9kUXzgpWj9z-VHVia5ag6cMClSVvJW_AlT3ejSYUFCFx2-dm0Ybepa9QeQjHkkIlmOZTxJ-n47CoYFJR_",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjI2MTI5YmE1NDNjNTZlOWZiZDUzZGZkY2I3Nzg5ZjhiZjhmMWExYTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE4MjIzNDI4Mjg2OTU0MzU2MTQyIiwiZW1haWwiOiJqb3NodmF5cmVzMTBAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJSbkZvdDB5c2ozUmY4Tnp3VWw5dWFnIiwiaWF0IjoxNjA5Nzg5NTgyLCJleHAiOjE2MDk3OTMxODJ9.ipn0HttuFMxy1DzteNRDa4UK5Amd1HVyxGK-gTNlQFsgwxOKmVcLcEt72ZWFd3sZtjI0kL90hRmuJ1Vqaw3xWYxuekooA4pi2OztJObze8I_1374EGJHbqfqsZbDeIpJoGPRA2HysGjPw4hN1cwf-izM-aWyyM4GdxWZhbu8VZgDUP9go108rGZpR1h2Boo5LpbI0Bxt_EbPC08WpEFY-T5-g3F2GeSnRmLYzFpZCZdxDFz0az8eoWKViJ8OCArdgvdBzbBfA3gCcTV3f3M1j0h8zYXLw1Ec6bsoFX9NecsMDuX6n65C6Wa0xG4hb4lyEx_jXDzXiArHJx10iZKr3A"
+	},
+	"webconfig": {
+		"service-agreement": {
+			"projectId": "service-agreement",
+			"appId": "1:237871676232:web:90c274dadb23330c9e117d",
+			"storageBucket": "service-agreement.appspot.com",
+			"locationId": "us-east1",
+			"apiKey": "AIzaSyB-MkyXqEJKILm63aW58li2FgTTtXRP6i4",
+			"authDomain": "service-agreement.firebaseapp.com",
+			"messagingSenderId": "237871676232",
+			"measurementId": "G-1XT0VDXMQG"
+		}
+	}
+}

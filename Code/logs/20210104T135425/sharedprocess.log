@@ -1,0 +1,27 @@
+[2021-01-04 13:54:29.169] [sharedprocess] [info] main {"machineId":"fb13d6b20a70aedeb9dd3d8bcef528a52b1c989594ffb76f3b495c0cf3de43d6","windowId":2}
+[2021-01-04 13:54:29.203] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/batman/.config/Code/User/snippets'
+[2021-01-04 13:54:38.028] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-01-04 13:54:38.162] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-01-04 13:54:38.372] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.ms-vscode.cpptools-1.1.3: ms-vscode.cpptools
+[2021-01-04 13:54:38.372] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/ms-vscode.cpptools-1.1.3
+[2021-01-04 13:54:38.375] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-01-04 13:54:38.381] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-01-04 13:54:53.846] [sharedprocess] [info] Installing extension: svelte.svelte-vscode
+[2021-01-04 13:54:54.226] [sharedprocess] [info] Downloaded extension: svelte.svelte-vscode undefined
+[2021-01-04 13:54:55.961] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.svelte.svelte-vscode-102.8.0: svelte.svelte-vscode
+[2021-01-04 13:54:55.961] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0
+[2021-01-04 13:54:55.962] [sharedprocess] [info] Installation completed. svelte.svelte-vscode
+[2021-01-04 13:54:55.971] [sharedprocess] [info] Extensions installed successfully: svelte.svelte-vscode
+[2021-01-04 13:55:02.631] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-01-04 13:55:02.756] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-01-04 13:55:02.834] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.vscodevim.vim-1.18.5: vscodevim.vim
+[2021-01-04 13:55:02.834] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/vscodevim.vim-1.18.5
+[2021-01-04 13:55:02.835] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-01-04 13:55:02.838] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-01-04 13:55:09.184] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-04 13:55:09.217] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2021-01-04 13:55:09.318] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2021-01-04 13:55:09.325] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2021-01-04 13:55:09.325] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2021-01-04 13:55:09.326] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2021-01-04 13:55:09.329] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code

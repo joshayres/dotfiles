@@ -1,0 +1,117 @@
+[2021-01-04 15:05:12.162] [exthost] [info] extension host started
+[2021-01-04 15:05:12.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-04 15:05:12.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-04 15:05:12.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-04 15:05:12.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-04 15:05:12.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-04 15:05:12.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-04 15:05:12.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-04 15:05:12.205] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/git/dist/main
+[2021-01-04 15:05:12.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-04 15:05:12.241] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-04 15:05:12.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-04 15:05:12.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/search-result/dist/extension.js
+[2021-01-04 15:05:12.243] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-01-04 15:05:12.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/vscodevim.vim-1.18.5/out/extension
+[2021-01-04 15:05:12.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-04 15:05:12.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/npm/dist/npmMain
+[2021-01-04 15:05:12.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-04 15:05:12.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/github/dist/extension.js
+[2021-01-04 15:05:12.386] [exthost] [info] eager extensions activated
+[2021-01-04 15:05:12.392] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-04 15:05:12.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-04 15:05:12.444] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-04 15:05:12.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/dbaeumer.vscode-eslint-2.1.13/client/out/extension
+[2021-01-04 15:05:12.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-04 15:05:12.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-04 15:05:14.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-04 15:05:14.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-04 15:05:33.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-01-04 15:05:33.062] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-01-04 15:05:37.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-01-04 15:05:37.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-01-04 15:47:52.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-01-04 15:47:52.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-01-04 15:52:29.062] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 15:52:29.066] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.3)
+Debug Failure.
+Error: Debug Failure.
+    at getExportEqualsLocalSymbol (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118409:33)
+    at getImport (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118380:38)
+    at Object.getImportOrExportSymbol (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118293:68)
+    at getImportOrExportReferences (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119808:56)
+    at getReferencesAtLocation (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119738:17)
+    at getReferencesInContainer (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119682:21)
+    at getReferencesInContainerOrFiles (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119236:21)
+    at getReferencedSymbolsForSymbol (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119227:21)
+    at Object.getReferencedSymbolsForNode (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119024:34)
+    at Object.getReferenceEntriesForNode (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:118727:40)
+    at getSemanticDocumentHighlights (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117365:57)
+    at Object.getDocumentHighlights (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117353:20)
+    at Proxy.getDocumentHighlights (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143586:42)
+    at IOSession.Session.getDocumentHighlights (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153989:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153319:61)
+    at /nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:1:76476)
+	at dispatchResponse (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:1:70351)
+	at dispatchMessage (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:1:69210)
+	at /nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:1:68720
+	at l.fire (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at g.onLengthData (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-01-04 15:52:45.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-04 15:52:45.344] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-01-04 15:52:45.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-04 15:52:45.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-01-04 15:54:00.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-01-04 15:54:00.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/markdown-language-features/dist/extension
+[2021-01-04 15:54:00.666] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2021-01-04 15:54:00.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/eg2.vscode-npm-script-0.3.13/dist/extension
+[2021-01-04 15:58:28.320] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 15:58:28.320] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-04 15:58:39.702] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 15:58:39.702] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-04 18:09:50.114] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 18:09:50.114] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-04 18:10:01.806] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 18:10:01.806] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-04 18:12:35.867] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-04 18:12:35.867] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)

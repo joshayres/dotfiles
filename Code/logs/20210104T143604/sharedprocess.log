@@ -1,0 +1,15 @@
+[2021-01-04 14:36:08.236] [sharedprocess] [info] main {"machineId":"fb13d6b20a70aedeb9dd3d8bcef528a52b1c989594ffb76f3b495c0cf3de43d6","windowId":2}
+[2021-01-04 14:36:08.264] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/batman/.config/Code/User/snippets'
+[2021-01-04 14:36:48.246] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-04 14:50:49.088] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2021-01-04 14:50:49.278] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script undefined
+[2021-01-04 14:50:49.327] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.eg2.vscode-npm-script-0.3.13: eg2.vscode-npm-script
+[2021-01-04 14:50:49.327] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/eg2.vscode-npm-script-0.3.13
+[2021-01-04 14:50:49.328] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
+[2021-01-04 14:50:49.332] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2021-01-04 14:50:52.829] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-01-04 14:50:52.904] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-01-04 14:50:52.920] [sharedprocess] [info] Extracted extension to /home/batman/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.13: dbaeumer.vscode-eslint
+[2021-01-04 14:50:52.920] [sharedprocess] [info] Renamed to /home/batman/.vscode/extensions/dbaeumer.vscode-eslint-2.1.13
+[2021-01-04 14:50:52.920] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-01-04 14:50:52.924] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint

@@ -1,0 +1,73 @@
+[2021-01-04 14:36:06.101] [exthost] [info] extension host started
+[2021-01-04 14:36:06.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-04 14:36:06.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-04 14:36:06.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-04 14:36:06.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-04 14:36:06.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-04 14:36:06.136] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-04 14:36:06.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-04 14:36:06.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/git/dist/main
+[2021-01-04 14:36:06.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-04 14:36:06.184] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-04 14:36:06.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-04 14:36:06.191] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/search-result/dist/extension.js
+[2021-01-04 14:36:06.192] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-01-04 14:36:06.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/vscodevim.vim-1.18.5/out/extension
+[2021-01-04 14:36:06.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-04 14:36:06.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/npm/dist/npmMain
+[2021-01-04 14:36:06.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-04 14:36:06.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/github/dist/extension.js
+[2021-01-04 14:36:06.373] [exthost] [info] eager extensions activated
+[2021-01-04 14:36:06.374] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-04 14:36:06.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-04 14:36:06.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-04 14:36:06.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-04 14:36:15.466] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode {"startup":false,"extensionId":{"value":"svelte.svelte-vscode","_lower":"svelte.svelte-vscode"},"activationEvent":"onLanguage:svelte"}
+[2021-01-04 14:36:15.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/dist/src/extension.js
+[2021-01-04 14:36:19.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-04 14:36:19.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-04 14:36:46.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-01-04 14:36:46.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-01-04 14:41:04.595] [exthost] [error] [svelte.svelte-vscode] provider FAILED
+[2021-01-04 14:41:04.598] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+[2021-01-04 14:41:04.800] [exthost] [error] [svelte.svelte-vscode] provider FAILED
+[2021-01-04 14:41:04.800] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+[2021-01-04 14:41:24.102] [exthost] [error] [svelte.svelte-vscode] provider FAILED
+[2021-01-04 14:41:24.102] [exthost] [error] Error: DisposableStore is missing...
+	at W._convertCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:944)
+	at W.resolveCompletionItem (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:750:680)
+[2021-01-04 14:41:32.683] [exthost] [error] [svelte.svelte-vscode] provider FAILED
+[2021-01-04 14:41:32.684] [exthost] [error] Error: Illegal argument: line must be non-negative
+	at Object.t.illegalArgument (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:662)
+	at new _ (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:513:364)
+	at new _ (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at asPosition (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:79:16)
+	at asRange (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:85:56)
+	at asTextEdit (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:283:34)
+	at Array.map (<anonymous>)
+	at asTextEdits (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:289:22)
+	at /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:573:72
+	at Array.forEach (<anonymous>)
+	at asWorkspaceEdit (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:562:34)
+	at Object.asCodeAction (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:527:27)
+	at /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/client.js:1194:75
+[2021-01-04 14:42:31.523] [exthost] [error] [svelte.svelte-vscode] provider FAILED
+[2021-01-04 14:42:31.524] [exthost] [error] TypeError: Cannot read property 'tags' of null
+	at asCompletionItem (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:204:46)
+	at Array.map (<anonymous>)
+	at asCompletionResult (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:174:51)
+	at async W.provideCompletionItems (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:749:898)
+[2021-01-04 14:44:58.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-04 14:44:58.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-01-04 14:44:58.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-04 14:44:58.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-01-04 14:45:26.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-01-04 14:45:26.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/extensions/markdown-language-features/dist/extension
+[2021-01-04 14:50:49.426] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2021-01-04 14:50:49.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/eg2.vscode-npm-script-0.3.13/dist/extension
+[2021-01-04 14:50:52.985] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-04 14:50:52.985] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/batman/.vscode/extensions/dbaeumer.vscode-eslint-2.1.13/client/out/extension

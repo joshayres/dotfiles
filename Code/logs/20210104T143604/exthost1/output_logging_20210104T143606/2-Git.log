@@ -1,0 +1,133 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/batman/dev/agreec
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/App.svelte
+> git cat-file -s d428e99ebc111267713cbb918069d8477d22e43e
+> git show --textconv :src/firebase.js
+> git ls-files --stage -- /home/batman/dev/agreec/src/firebase.js
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/App.svelte
+> git cat-file -s d428e99ebc111267713cbb918069d8477d22e43e
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/batman/dev/agreec/src/App.svelte
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/Profile.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Profile.svelte
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git show --textconv :src/firebase.js
+> git ls-files --stage -- /home/batman/dev/agreec/src/firebase.js
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/App.svelte
+> git cat-file -s d428e99ebc111267713cbb918069d8477d22e43e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/firebase.js
+> git ls-files --stage -- /home/batman/dev/agreec/src/firebase.js
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git show --textconv :src/pages/Profile.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Profile.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea
+> git show --textconv :src/pages/Login.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/Login.svelte
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/batman/dev/agreec/README.md
+> git cat-file -s 9ae41226b8b993f92d67b8a01aff63c1e9437bae
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/batman/dev/agreec/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/index.svelte
+> git ls-files --stage -- /home/batman/dev/agreec/src/pages/index.svelte
+> git cat-file -s 84e0ffe119051dd011b34cb11dc1f2fcc02674ea

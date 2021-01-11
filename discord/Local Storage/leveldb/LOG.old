@@ -1,0 +1,6 @@
+2021/01/05-22:17:44.995 5198 Reusing MANIFEST /home/batman/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/01/05-22:17:44.996 5198 Recovering log #19
+2021/01/05-22:17:44.998 5198 Reusing old log /home/batman/.config/discord/Local Storage/leveldb/000019.log 
+2021/01/05-22:18:45.691 53c6 Level-0 table #23: started
+2021/01/05-22:18:45.696 53c6 Level-0 table #23: 20724 bytes OK
+2021/01/05-22:18:45.698 53c6 Delete type=0 #19

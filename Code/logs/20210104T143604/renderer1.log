@@ -1,0 +1,20 @@
+[2021-01-04 14:36:07.275] [renderer1] [error] ENOENT: no such file or directory, open '/home/batman/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/batman/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-01-04 14:41:32.684] [renderer1] [error] Illegal argument: line must be non-negative: Error: Illegal argument: line must be non-negative
+	at Object.t.illegalArgument (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:662)
+	at new _ (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:513:364)
+	at new _ (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at asPosition (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:79:16)
+	at asRange (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:85:56)
+	at asTextEdit (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:283:34)
+	at Array.map (<anonymous>)
+	at asTextEdits (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:289:22)
+	at /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:573:72
+	at Array.forEach (<anonymous>)
+	at asWorkspaceEdit (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:562:34)
+	at Object.asCodeAction (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:527:27)
+	at /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/client.js:1194:75
+[2021-01-04 14:42:31.525] [renderer1] [error] Cannot read property 'tags' of null: TypeError: Cannot read property 'tags' of null
+	at asCompletionItem (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:204:46)
+	at Array.map (<anonymous>)
+	at asCompletionResult (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/vscode-languageclient/lib/protocolConverter.js:174:51)
+	at async W.provideCompletionItems (/nix/store/xj5n9h567aq8mfin5xa41rccldmdy332-vscode-1.51.1/lib/vscode/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:749:898)

@@ -1,0 +1,662 @@
+Initialize language server at  file:///home/batman/dev/agreec
+Trying to load config for /home/batman/dev/agreec/src/App.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Initialize new ts service at  
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 0
+From node_modules: 0
+Total: 0
+Trying to load config for /home/batman/dev/agreec/src/pages/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_reset.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1/feature1.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1/feature2.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1/feature3.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1.1/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1.1/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1.1/feature2.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/aliasing/v1.1/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/api/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/api/[showId].svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/api/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/app/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/app/_reset.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/app/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/app/login/_reset.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/app/login/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/child/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/child/grandchild/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/child/grandchild/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/child/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/layouts/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/animated/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/animated/[key].svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/animated/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/basic/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/basic/[key].svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/basic/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/reset/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/reset/_reset.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/reset/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/Splash.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/widget/_fallback.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/NavLinks.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/RenderStatus.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/modal/animated/_target.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/_reset.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/home.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/feed/_layout.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/feed/[id]/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/feed/index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/updates.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/settings.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/transitions/tabs/_components/BottomNav.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/CrudWidget/Index.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/CrudWidget/_list.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/CrudWidget/_update.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/src/pages/example/_components/CrudWidget/_view.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/decorators/BaseTransition.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/decorators/TabsTransition.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Warning - unrecognized UnaryExpression operator 40!
+                This is an edge case unaccounted for in svelte2tsx, please file an issue:
+                https://github.com/sveltejs/language-tools/issues/new/choose
+                 -$width
+Warning - unrecognized UnaryExpression operator 40!
+                This is an edge case unaccounted for in svelte2tsx, please file an issue:
+                https://github.com/sveltejs/language-tools/issues/new/choose
+                 -$width
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/Prefetcher.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/Router.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/Route.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Initialize new ts service at  /home/batman/dev/agreec/node_modules/@sveltech/routify/tsconfig.json
+SnapshotManager File Statistics:
+Project files: 42
+Svelte files: 0
+From node_modules: 42
+Total: 42
+Warning - unrecognized UnaryExpression operator 40!
+                This is an edge case unaccounted for in svelte2tsx, please file an issue:
+                https://github.com/sveltejs/language-tools/issues/new/choose
+                 -$width
+Warning - unrecognized UnaryExpression operator 40!
+                This is an edge case unaccounted for in svelte2tsx, please file an issue:
+                https://github.com/sveltejs/language-tools/issues/new/choose
+                 -$width
+Trying to load config for /home/batman/dev/agreec/node_modules/@sveltech/routify/runtime/defaultTmp/Splash.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Trying to load config for /home/batman/dev/agreec/src/App.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Trying to load config for /home/batman/dev/agreec/src/pages/Login.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Trying to load config for /home/batman/dev/agreec/src/pages/Profile.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Trying to load config for /home/batman/dev/agreec/src/App.svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.6.1 from /home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-preprocess
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 205
+Total: 274
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 205
+Total: 274
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 205
+Total: 274
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 271
+Total: 340
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Error: Debug Failure. False expression: `JsxText` tokens should not be the first child of `JsxElement | JsxSelfClosingElement`
+    at findRightmostChildNodeWithTokens (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114919:26)
+    at find (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114893:29)
+    at findPrecedingToken (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114843:22)
+    at getTokenAtPositionWorker (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114793:41)
+    at getTouchingToken (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114767:16)
+    at Object.getTouchingPropertyName (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:114759:16)
+    at getCompletionData (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:119074:31)
+    at Object.getCompletionsAtPosition (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:118544:34)
+    at Object.getCompletionsAtPosition (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/typescript/lib/typescript.js:147287:35)
+    at CompletionsProviderImpl.getCompletions (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CompletionProvider.js:66:41)
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+CompileError [ParseError]: Expected valid tag name
+    at error$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15451:20)
+    at Parser$1.error (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15527:10)
+    at read_tag_name (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14670:17)
+    at tag (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14497:19)
+    at new Parser$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15486:22)
+    at parse$3 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15617:21)
+    at Object.compile (/home/batman/dev/agreec/node_modules/svelte/compiler.js:26685:18)
+    at SvelteDocument.getCompiledWith (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:51:23)
+    at async SvelteDocument.getCompiled (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:45:34)
+    at async Object.getQuickfixActions (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  name: 'ParseError',
+  code: 'invalid-tag-name',
+  start: { line: 18, column: 9, character: 355 },
+  end: { line: 18, column: 9, character: 355 },
+  pos: 355,
+  filename: undefined,
+  frame: '16: <section>\n' +
+    '17:     {#if user}\n' +
+    '18:         <\n' +
+    '             ^\n' +
+    '19:     {:else}\n' +
+    '20:     {/if}'
+}
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 272
+Total: 341
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+CompileError [ParseError]: Expected valid tag name
+    at error$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15451:20)
+    at Parser$1.error (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15527:10)
+    at read_tag_name (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14670:17)
+    at tag (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14497:19)
+    at new Parser$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15486:22)
+    at parse$3 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15617:21)
+    at Object.compile (/home/batman/dev/agreec/node_modules/svelte/compiler.js:26685:18)
+    at SvelteDocument.getCompiledWith (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:51:23)
+    at async SvelteDocument.getCompiled (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:45:34)
+    at async Object.getQuickfixActions (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  name: 'ParseError',
+  code: 'invalid-tag-name',
+  start: { line: 22, column: 9, character: 494 },
+  end: { line: 22, column: 9, character: 494 },
+  pos: 494,
+  filename: undefined,
+  frame: '20:         <button on:click={() => auth.signOut()}>Logout</button>\n' +
+    '21:     {:else}\n' +
+    '22:         <\n' +
+    '             ^\n' +
+    '23:     {/if}\n' +
+    '24: </section>'
+}
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+CompileError [ParseError]: Expected }
+    at error$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15451:20)
+    at Parser$1.error (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15527:10)
+    at Parser$1.eat (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15541:19)
+    at read_attribute (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14705:21)
+    at tag (/home/batman/dev/agreec/node_modules/svelte/compiler.js:14568:26)
+    at new Parser$1 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15486:22)
+    at parse$3 (/home/batman/dev/agreec/node_modules/svelte/compiler.js:15617:21)
+    at Object.compile (/home/batman/dev/agreec/node_modules/svelte/compiler.js:26685:18)
+    at SvelteDocument.getCompiledWith (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:51:23)
+    at async SvelteDocument.getCompiled (/home/batman/.vscode/extensions/svelte.svelte-vscode-102.8.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:45:34) {
+  name: 'ParseError',
+  code: 'unexpected-token',
+  start: { line: 23, column: 5, character: 506 },
+  end: { line: 23, column: 5, character: 506 },
+  pos: 506,
+  filename: undefined,
+  frame: '21:     {:else}\n' +
+    '22:         <button\n' +
+    '23:     {/if}\n' +
+    '         ^\n' +
+    '24: </section>'
+}
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 68
+From node_modules: 272
+Total: 341
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
+Using Svelte v3.23.2 from /home/batman/dev/agreec/node_modules/svelte/compiler
