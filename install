@@ -13,14 +13,21 @@ echo >&2 "====================================================================="
 
 cd $HOME
 
+mkdir -p $HOME/bin
+
+sudo apt-get update
+sudo apt-get install -y zsh
+sudo chsh -s /usr/bin/zsh $USER
+
 # Make passwordless sudo work
 export SUDO_ASKPASS=/bin/true
 
 # Install fzf
-FZF_VERSION=0.55.0
-curl -L https://github.com/junegunn/fzf/releases/download/${FZF_VERSION}/fzf-${FZF_VERSION}-linux_amd64.tar.gz | tar xzC $HOME/bin
+curl -L https://github.com/junegunn/fzf/releases/download/v0.55.0/fzf-0.55.0-linux_amd64.tar.gz | tar xzC $HOME/bin
 
 # Install neovim
+
+mkdir -p $HOME/bin/nvim
 sudo apt-get install -y libfuse2
 curl -L -o $HOME/bin/nvim https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage
 chmod a+x $HOME/bin/nvim
