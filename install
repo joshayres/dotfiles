@@ -17,6 +17,7 @@ mkdir -p $HOME/bin
 
 sudo apt-get update
 sudo apt-get install -y zsh
+sudo apt-get install ripgrep
 sudo chsh -s /usr/bin/zsh $USER
 
 # Make passwordless sudo work
@@ -31,3 +32,5 @@ mkdir -p $HOME/bin/nvim
 sudo apt-get install -y libfuse2
 curl -L -o $HOME/bin/nvim https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage
 chmod a+x $HOME/bin/nvim
+
+ln -s ./.config/* $HOME/.config/.
