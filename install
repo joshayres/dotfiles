@@ -33,4 +33,5 @@ sudo apt-get install -y libfuse2
 curl -L -o $HOME/bin/nvim https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage
 chmod a+x $HOME/bin/nvim
 
-ln -s ./.config/* $HOME/.config/.
+cp -r ./.config/* $HOME/.config/.
+cp -f ./.zshrc $HOME/.zshrc
