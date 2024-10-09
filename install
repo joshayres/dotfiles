@@ -34,4 +34,5 @@ curl -L -o $HOME/bin/nvim https://github.com/neovim/neovim/releases/download/nig
 chmod a+x $HOME/bin/nvim
 
 cp -r ./.config/* $HOME/.config/.
+cp -r ./nvim $HOME/.config/nvim
 cp -f ./.zshrc $HOME/.zshrc
