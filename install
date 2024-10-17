@@ -16,6 +16,9 @@ mkdir -p $HOME/bin
 sudo apt-get update
 sudo apt-get install -y zsh
 sudo apt-get install ripgrep
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
 sudo chsh -s /usr/bin/zsh $USER
 
 # Make passwordless sudo work
@@ -23,6 +26,9 @@ export SUDO_ASKPASS=/bin/true
 
 # Install fzf
 curl -L https://github.com/junegunn/fzf/releases/download/v0.55.0/fzf-0.55.0-linux_amd64.tar.gz | tar xzC $HOME/bin
+
+curl -L https://github.com/zellij-org/zellij/releases/download/v0.40.1/zellij-x86_64-unknown-linux-musl.tar.gz | tar xzC $HOME/bin
+chmod +x $HOME/bin/zellij
 
 # Install neovim
 
